@@ -1,8 +1,8 @@
 # encoding: utf-8
 
 Gem::Specification.new do |gem|
-  gem.name    = "figaro"
-  gem.version = "0.7.0"
+  gem.name    = "mguymon-figaro"
+  gem.version = "0.7.0.1"
 
   gem.author      = "Steve Richert"
   gem.email       = "steve.richert@gmail.com"
